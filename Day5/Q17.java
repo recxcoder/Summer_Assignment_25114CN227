@@ -14,6 +14,7 @@ public class Q17 {
 
         if (num <= 1) {
             System.out.println(num + " is not a Perfect number.");
+            sc.close();
             return;
         }
 
