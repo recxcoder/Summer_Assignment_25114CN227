@@ -1,8 +1,7 @@
 package Day9;
 
 /*
-Write a program to Print reverse number
-triangle.
+Write a program to Print reverse number triangle.
 12345
 1234
 123
@@ -13,8 +12,8 @@ triangle.
 
 public class Q34 {
     public static void main(String[] args) {
-        
-        for (int i = 5; i >= 1 ; i--) {
+
+        for (int i = 5; i >= 1; i--) {
             for (int j = 1; j <= i; j++) {
                 System.out.print(j);
             }
