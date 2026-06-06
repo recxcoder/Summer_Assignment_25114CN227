@@ -19,10 +19,9 @@ public class Q36 {
                 if (i == 1 || i == 5) {
                     System.out.print("*");
                 } else {
-                    if (j==1 || j==3) {
+                    if (j == 1 || j == 3) {
                         System.out.print("*");
-                    }
-                    else{
+                    } else {
                         System.out.print(" ");
                     }
                 }
