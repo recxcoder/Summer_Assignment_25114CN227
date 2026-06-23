@@ -22,7 +22,6 @@ public class Q99 {
         }
         
         Arrays.sort(names);
-
         System.out.println("Names in alphabetical order:");
 
         System.out.println(Arrays.toString(names));
