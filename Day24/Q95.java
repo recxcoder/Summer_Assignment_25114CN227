@@ -13,7 +13,7 @@ public class Q95 {
 
         String[] words = sentence.split(" ");
 
-        String longesteWord = " ";
+        String longesteWord = "";
 
         for (String word : words) {
             if (word.length() > longesteWord.length()) {
